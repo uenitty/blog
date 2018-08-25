@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{395:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Ueni log"}},allMarkdownRemark:{edges:[{node:{excerpt:"重すぎる腰を上げて、やっとブログを始めます。 構成は静的サイトジェネレーターに Gatsby を利用し、 GitHub Pages でホストする感じで行こうと思います。 とりあえずはStarterテーマのままですが、そのうち変えます。",fields:{slug:"/201908/hello-world/"},frontmatter:{date:"21 August, 2019",title:"やっとブログ"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-bfd1c7a7bc4089feff98.js.map
